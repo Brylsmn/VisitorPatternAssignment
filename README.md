@@ -10,3 +10,4 @@ Implement a visitor design pattern approach. You must show the different element
 DO NOT USE ABSTRACT CLASSES. You are free to name your interfaces and concrete classes. Have a client code that will test your program.
 
 # UML Class Diagram
+![visitor pattern assignment](https://github.com/Brylsmn/VisitorPatternAssignment/assets/142909052/48557d9f-1ed3-475e-8140-8557e5822cd7)
